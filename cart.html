@@ -488,7 +488,7 @@
     var sum = document.getElementById("checkout");
     let ite = document.createElement("p");
     ite.setAttribute("id", "cos")
-    ite.innerText = "Subtotal (" + totalItems + " items): ₹" + totalAmount;
+    ite.innerText = "Subtotal (" + totalItems + " items): ₹" + Math.floor(totalAmount);
     let am = document.createElement("p");
     am.setAttribute("id", "savings")
     am.innerText = "Savings: ₹" + totalAmount * 0.25;
@@ -524,7 +524,7 @@
             alert("Invalid Promocode. Try again!");
             promo.value = "";
         }
-        ite.innerText = "Subtotal (" + totalItems + " items): ₹" + totalAmount;
+        ite.innerText = "Subtotal (" + totalItems + " items): ₹" + Math.floor(totalAmount);
 
 
     }
