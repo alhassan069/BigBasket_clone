@@ -4,6 +4,12 @@
 <head>
     <title>Online Grocery Shopping</title>
     <link rel="stylesheet" type="text/css" href="Styles/index.css">
+    <style>
+        #lnk {
+            color: black;
+            text-decoration: none;
+        }
+    </style>
 </head>
 
 <body>
@@ -17,10 +23,16 @@
         <div id="heading_main2">
             <input type="search" id="search_bar" placeholder="Search for Products..">
             <img id="search_img" src="Images/Search_image.png">
-            <div id="my_basket">
-                <img src="Images/shopping-basket.png">
-                <p>My Basket<br>0 Items</p>
-            </div>
+            <a href="cart.html" id="lnk">
+                <div id="my_basket">
+                    <img src="Images/shopping-basket.png">
+                    <span>
+                        <p>My Basket</p>
+                        <br>
+                        <p id="bask">0 Items</p>
+                    </span>
+                </div>
+            </a>
         </div>
         <div id="dropdown_list">
             <a href="#">Shop by Category</a>
