@@ -5,17 +5,13 @@ https://www.coursera.org/in
 # Pages
 
 ## Landing Page
-![Imgur](https://imgur.com/07cGJQC)
-
-## Business Page
-![App Screenshot](https://imgur.com/RTL75xx)
-
-## Course Page
-![App Screenshot](https://imgur.com/tk81IWK)
-
-## Register Page
-![App Screenshot](https://imgur.com/YmTglwY)
-
+![App Screenshot](https://miro.medium.com/max/1050/1*01O_74MElI-e6An0r96zHw.png)
+## Product Page
+![App Screenshot](https://miro.medium.com/max/1050/1*e1AHzU7e7hvePxXDsQ0KvQ.png)
+## Login/Signup
+![App Screenshot](https://miro.medium.com/max/1050/1*VN69b7q55cfAxkM1J8pH6Q.png)
+## Payment Page
+![App Screenshot](https://miro.medium.com/max/1050/1*8jSIMlokRjhxdkPSXGsNCA.png)
 
 
 
