@@ -2,7 +2,7 @@
 Clone of Bigbasket website using html, css and javascript
 https://www.coursera.org/in
 
-#Pages
+# Pages
 
 ## Landing Page
 ![App Screenshot](https://miro.medium.com/max/1050/1*01O_74MElI-e6An0r96zHw.png)
